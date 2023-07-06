@@ -1,0 +1,17 @@
+Important Topics
+
+Object Oriented Paradigms GFG
+Constructors in Java GFG
+Constructor chaining in Java GFG
+Inheritance in Java GFG
+Overriding in Java GFG
+Abstraction in Java GFG
+Access modifiers in Java GFG
+Wrapper Classes in Java GFG
+Need of wrapper classes in Java GFG
+this keyowrd in Java Javatpoint
+Important keyowrds in Java inheritance - extends,implements,super,instanceof Tutorialspoint
+Instance initializer block Javatpoint
+Dynamic Method Dispatch or Runtime Polymorphism in Java GFG
+Cohesion in Java GFG
+Coupling in Java GFG
