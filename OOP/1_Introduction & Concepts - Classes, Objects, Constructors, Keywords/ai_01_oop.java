@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.Spliterators.AbstractIntSpliterator;
 
-public class oop{
+public class ai_01_oop{
 
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
@@ -48,6 +48,6 @@ class student{
     // String name;
     // float marks;
 
-    // value set
+    // // value set
     int rollno=3;
 }

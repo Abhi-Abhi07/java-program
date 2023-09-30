@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class final_keyword_06{
+public class ai_06_final_keyword{
     
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);

@@ -1,13 +1,13 @@
 import java.util.*;
 
 import javax.sql.rowset.spi.SyncResolver;
-	public class calling_a_cnstructor_from_anoter_constructor_04{
+	public class ai_04_calling_a_cnstructor_from_anoter_constructor{
 		public static void main(String[] args){
 
-            student Duggu = new student();
-            System.out.println(Duggu.rollNo);
-			System.out.println(Duggu.name);
-			System.out.println(Duggu.marks);
+            // student Duggu = new student();
+            // System.out.println(Duggu.rollNo);
+			// System.out.println(Duggu.name);
+			// System.out.println(Duggu.marks);
 
 
 			// one student name into another student

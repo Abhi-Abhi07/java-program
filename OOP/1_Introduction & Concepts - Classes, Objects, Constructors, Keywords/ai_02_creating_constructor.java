@@ -2,7 +2,7 @@
 // solution is next program
 import java.util.*;
 
-public class creating_constructor_02{
+public class ai_02_creating_constructor{
     
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
@@ -22,7 +22,7 @@ class student{
 
     //Creating constructor
     //we need a way to add the values of the above properties object by object
-    //we need one word to acces every object
+    //we need one word to access every object
     student(){
         Abhi.rollno=01;
         Abhi.name="Ai";

@@ -1,28 +1,28 @@
 import java.util.*;
 
 import javax.sql.rowset.spi.SyncResolver;
-	public class this_keyword_03{
+	public class ai_03_this_keyword{
 		public static void main(String[] args){
 
 			student Abhi = new student();
             student Ab = new student();
 
 
-            Abhi.greeting();
+            // Abhi.greeting();
 
 
 			// System.out.println(Abhi.rollNo);
 			// System.out.println(Abhi.name);
 			// System.out.println(Abhi.marks);
 
-            Abhi.rollNo=7;
-            Ab.rollNo=7;
-            System.out.println(Ab.rollNo);
-			System.out.println(Ab.name);
-			System.out.println(Ab.marks);
+            // Abhi.rollNo=7;
+            // Ab.rollNo=7;
+            // System.out.println(Ab.rollNo);
+			// System.out.println(Ab.name);
+			// System.out.println(Ab.marks);
 
 
-            Abhi.changeName("Raj");
+            // Abhi.changeName("Raj");
 
 
             student Raj=new student("Pyari",101,99.99f);

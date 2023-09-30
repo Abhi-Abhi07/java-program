@@ -9,15 +9,12 @@ public class Main {
         // System.out.println(Human.population);
         // System.out.println(Human.population);
 
-        Main funn =
-
-    funn Main();funn.fun2();
+        Main funn =funn Main();
+        funn.fun2();
 
     }
     // this is not dependent on objects, because it static
-    void
-
-    static fun(){
+    void static fun(){
         // greeting();//you cant use this because it requres an instance 
         //but the function you are using it in does not depend on instance
         

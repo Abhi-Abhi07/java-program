@@ -17,7 +17,7 @@ public class objectPrint {
         objectPrint obj=new objectPrint(54);
         //println par ctrl+click
         //then valueof par ctrl+click
-        //tehn toString par ctrl+click
+        //then toString par ctrl+click
         //and check return type
         System.out.println(obj);
 
