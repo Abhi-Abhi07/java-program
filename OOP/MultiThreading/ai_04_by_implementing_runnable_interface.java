@@ -15,7 +15,7 @@ public class ai_04_by_implementing_runnable_interface {
         B r=new B();
         Thread t=new Thread(r);
         t.run(); // only single thread run (time taken 10 seconds)
-        // t.start(); // both thread are run simultaniusly (time taken 5 seconds)
+        // t.start(); // both thread are run simultaneously (time taken 5 seconds)
         for(int i=0; i<5; i++){
             System.out.println("Abhishek");
             Thread.sleep(1000);

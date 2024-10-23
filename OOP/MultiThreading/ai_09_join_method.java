@@ -16,7 +16,6 @@ public class ai_09_join_method {
         t1.setName("Abhi");
         t2.setName("Ram");
         t3.setName("Ai");
-        
         t1.start();
         t3.start();
         for(int i=0; i<3; i++){
@@ -24,10 +23,10 @@ public class ai_09_join_method {
         }
 
         t2.start();
-        // try {
+        try {
             t2.join();
-        // } catch (InterruptedException i) {
-        //     // TODO: handle exception
-        // }
+        } catch (InterruptedException i) {
+            // TODO: handle exception
+        }
     }
 }

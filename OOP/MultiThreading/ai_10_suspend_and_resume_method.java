@@ -21,7 +21,7 @@ public class ai_10_suspend_and_resume_method {
         t1.setName("Abhi");
         t2.setName("Ram");
         t3.setName("Ai");
-        // suspend and resume methed java se remove ho gje he
+        // suspend and resume methed java se remove ho gye he
         // so end
         t1.start();
         t2.start();

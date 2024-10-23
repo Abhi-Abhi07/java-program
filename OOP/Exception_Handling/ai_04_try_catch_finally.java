@@ -10,13 +10,13 @@ public class ai_04_try_catch_finally {
             System.out.println(c);
             System.out.println("try end");
         } 
-        catch (ArithmeticException a) {
-        // catch (NullPointerException a) {
-            int d=10/0;
+        // catch (ArithmeticException a) {
+        catch (NullPointerException a) {
+            // int d=10/0;
             System.out.println("can't divide by zerod");
         }
         finally{
-            int e=10/0;
+            // int e=10/0;
             System.out.println("Radhe Radhe");
         }
         int f=10/0;

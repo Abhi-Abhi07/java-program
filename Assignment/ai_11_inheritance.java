@@ -34,6 +34,8 @@ class Maximum extends Data{
     // void displayMax(){
     //     System.out.println("Maximum number is : "+this.maxi);
     // }
+
+
     public void findMax(){
      if(a>b){
             this.maxi=a;
@@ -45,8 +47,8 @@ class Maximum extends Data{
             this.maxi=b;
         }
     }
-            void displayMax(){
-                findMax();
+    void displayMax(){
+        findMax();
         System.out.println("Maximum number is : "+this.maxi);
     }
 }

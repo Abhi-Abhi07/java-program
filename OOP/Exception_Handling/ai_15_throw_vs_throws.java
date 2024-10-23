@@ -9,14 +9,15 @@ public class ai_15_throw_vs_throws {
         }
     }
     public static void main(String[] args){
+        System.out.println("main start");
         ai_15_throw_vs_throws a=new ai_15_throw_vs_throws();
         a.div(10,0);
-
-        // try {
-        //     a.div(10,0);
-        // } catch (Exception e) {
-        //     // TODO: handle exception
-        //     System.out.println("value of b is 0");
-        // }
+        try {
+            a.div(10,0);
+        } catch (Exception e) {
+            // TODO: handle exception
+            System.out.println("value of b is 0");
+        }
+        System.out.println("main end");
     }
 }
